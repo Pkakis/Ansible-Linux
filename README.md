@@ -1,2 +1,2 @@
-# Ansible-Linux
-Repo pour infra Linux
+# Ansible-ubuntu
+Repo pour infra ubuntu
